@@ -4,7 +4,7 @@ github loading widget
 ```yaml
 dependencies:
 
-  macwindowctl:
+  github_loading:
     git:
       url: git://github.com/d1y/github_loading
       ref: master
